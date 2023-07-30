@@ -1,0 +1,8 @@
+C:\Users\Smart Touch PC\source\repos\Lab 08\Lab 08\bin\Debug\Lab 08.exe.config
+C:\Users\Smart Touch PC\source\repos\Lab 08\Lab 08\bin\Debug\Lab 08.exe
+C:\Users\Smart Touch PC\source\repos\Lab 08\Lab 08\bin\Debug\Lab 08.pdb
+C:\Users\Smart Touch PC\source\repos\Lab 08\Lab 08\obj\Debug\Lab 08.csproj.AssemblyReference.cache
+C:\Users\Smart Touch PC\source\repos\Lab 08\Lab 08\obj\Debug\Lab 08.csproj.SuggestedBindingRedirects.cache
+C:\Users\Smart Touch PC\source\repos\Lab 08\Lab 08\obj\Debug\Lab 08.csproj.CoreCompileInputs.cache
+C:\Users\Smart Touch PC\source\repos\Lab 08\Lab 08\obj\Debug\Lab 08.exe
+C:\Users\Smart Touch PC\source\repos\Lab 08\Lab 08\obj\Debug\Lab 08.pdb
